@@ -1,6 +1,3 @@
-# Malala Florentina R. 
-## Business Data Analyst | HR Analytics | Aide à la décision
-
 Basée en Belgique  
 Analyse de données • Visualisation • Optimisation des processus  
 Profil rigoureux, orienté résultats et collaboration  
