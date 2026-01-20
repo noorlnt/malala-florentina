@@ -1,4 +1,6 @@
-.author__avatar img {
-  border-radius: 8px !important;
+:root {
+  --mm-color-primary: #2563eb;   /* bleu professionnel */
+  --mm-color-accent: #1e40af;    /* bleu foncé */
+  --mm-color-text: #1f2937;      /* gris foncé */
 }
 
