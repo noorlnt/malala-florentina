@@ -76,3 +76,9 @@ navigation:
 # ===============================
 locale: "fr-BE"
 timezone: "Europe/Brussels"
+# ===============================
+# Custom CSS
+# ===============================
+custom_css:
+  - assets/css/custom.css
+
