@@ -10,14 +10,14 @@ description: "Business Data Analyst spécialisée en analyse de données RH, rep
 # Theme
 # ===============================
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # air, contrast, dark, dirt, neon, mint
+minimal_mistakes_skin: "air"
 
 # ===============================
 # Author
 # ===============================
 author:
   name: "Malala Florentina R."
-  avatar: "/img/ma.jpg"   # ✅ PHOTO ICI
+  avatar: "/img/ma.jpg"
   bio: "Business Data Analyst | HR Analytics | BI & Reporting"
   location: "Belgique"
   links:
@@ -26,7 +26,7 @@ author:
       url: "https://github.com/florentinanr"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/tonprofil"   # ⬅️ à compléter
+      url: "https://www.linkedin.com/in/tonprofil"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:malalaflorentina@gmail.com"
@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache   # ✅ IMPORTANT
 
 # ===============================
 # Defaults
@@ -51,19 +52,13 @@ defaults:
       author_profile: true
 
 # ===============================
-# Markdown & Syntax Highlighting
+# Markdown
 # ===============================
 markdown: kramdown
 highlighter: rouge
 
 # ===============================
-# Pagination (Blog optionnel)
-# ===============================
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# ===============================
-# Navigation Menu
+# Navigation
 # ===============================
 navigation:
   main:
@@ -75,18 +70,6 @@ navigation:
       url: /skills/
     - title: "Contact"
       url: /contact/
-
-# ===============================
-# Footer
-# ===============================
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/florentinanr"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/tonprofil"
 
 # ===============================
 # SEO
