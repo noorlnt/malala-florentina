@@ -5,7 +5,7 @@ Basée en Belgique
 Analyse de données • Visualisation • Optimisation des processus  
 Profil rigoureux, orienté résultats et collaboration  
 
----
+
 
 ## À propos de moi  
 
@@ -18,7 +18,7 @@ J’ai travaillé sur des problématiques réelles telles que :
 
 Mon objectif est de **traduire les besoins métiers en solutions data concrètes**, afin d’améliorer la performance, la fiabilité de l’information et la prise de décision.
 
----
+
 
 ## Compétences techniques  
 
@@ -37,7 +37,7 @@ Mon objectif est de **traduire les besoins métiers en solutions data concrètes
 - Méthodologie **AGILE** (travail collaboratif, gestion de projets)  
 - Analyse des processus & amélioration continue  
 
----
+
 
 ## Projets mis en avant  
 
@@ -51,7 +51,6 @@ Mon objectif est de **traduire les besoins métiers en solutions data concrètes
 
 **Outils :** Power BI, Excel, bases de données, analyse statistique  
 
----
 
 ## Expériences professionnelles  
 
@@ -66,7 +65,7 @@ Mon objectif est de **traduire les besoins métiers en solutions data concrètes
 - Étude de demandes de crédit et évaluation des risques  
 - Développement et fidélisation de la clientèle  
 
----
+
 
 ## Objectifs professionnels  
 
@@ -77,7 +76,7 @@ Mon objectif est de **traduire les besoins métiers en solutions data concrètes
 
 Ouverte à des **opportunités en Belgique** : postes juniors, missions data, projets analytiques.
 
----
+
 
 ## Me contacter  
 
@@ -85,5 +84,5 @@ Ouverte à des **opportunités en Belgique** : postes juniors, missions data, pr
 💼 LinkedIn : *(à ajouter)*  
 💻 GitHub : explorez mes projets ci-dessous ⬇️  
 
----
+
 *La donnée n’a de valeur que lorsqu’elle éclaire les décisions et améliore les processus.*
