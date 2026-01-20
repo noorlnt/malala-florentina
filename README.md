@@ -78,7 +78,7 @@ Ouverte à des **opportunités en Belgique** : postes juniors, missions data, pr
 ## Me contacter  
 
 📧 Email : [malalaflorentina@gmail.com](mailto:malalaflorentina@gmail.com)  
-💼 LinkedIn : *(à ajouter)*  
+💼 LinkedIn : www.linkedin.com/in/florentinamalala  
 💻 GitHub : explorez mes projets ci-dessous ⬇️  
 
 
