@@ -1,6 +1,95 @@
-title: "Malala Florentina R."
-Logo: img/ma.jpg
-description: "Portfolio Data analyst"
-show_downloads: True
-theme: jekyll-theme-minimal
-lang: fr
+# ===============================
+# Site Settings
+# ===============================
+title: "Business Data Analyst | HR Analytics & Process Optimization"
+subtitle: "Analyse de données • Aide à la décision • Optimisation des processus"
+name: "Malala Florentina R."
+description: "Business Data Analyst spécialisée en analyse de données RH, reporting, turnover et optimisation des processus métiers."
+
+# ===============================
+# Theme
+# ===============================
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air" # air, contrast, dark, dirt, neon, mint
+
+# ===============================
+# Author
+# ===============================
+author:
+  name: "Malala Florentina R."
+  avatar: "/img/ma.jpg"   # ✅ PHOTO ICI
+  bio: "Business Data Analyst | HR Analytics | BI & Reporting"
+  location: "Belgique"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/florentinanr"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tonprofil"   # ⬅️ à compléter
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:malalaflorentina@gmail.com"
+
+# ===============================
+# Plugins (GitHub Pages compatibles)
+# ===============================
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ===============================
+# Defaults
+# ===============================
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# ===============================
+# Markdown & Syntax Highlighting
+# ===============================
+markdown: kramdown
+highlighter: rouge
+
+# ===============================
+# Pagination (Blog optionnel)
+# ===============================
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# ===============================
+# Navigation Menu
+# ===============================
+navigation:
+  main:
+    - title: "À propos"
+      url: /about/
+    - title: "Projets"
+      url: /projects/
+    - title: "Compétences"
+      url: /skills/
+    - title: "Contact"
+      url: /contact/
+
+# ===============================
+# Footer
+# ===============================
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/florentinanr"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tonprofil"
+
+# ===============================
+# SEO
+# ===============================
+locale: "fr-BE"
+timezone: "Europe/Brussels"
