@@ -1,4 +1,9 @@
 # ===============================
+# Custom CSS
+# ===============================
+custom_css:
+  - assets/css/custom.css
+# ===============================
 # Site Settings
 # ===============================
 title: "Business Data Analyst | HR Analytics & Process Optimization"
@@ -76,9 +81,5 @@ navigation:
 # ===============================
 locale: "fr-BE"
 timezone: "Europe/Brussels"
-# ===============================
-# Custom CSS
-# ===============================
-custom_css:
-  - assets/css/custom.css
+
 
